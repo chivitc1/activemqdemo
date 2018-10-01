@@ -16,4 +16,5 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'activemq-demo-pure-java'
+rootProject.name = 'activemqdemo'
+include 'purejava'

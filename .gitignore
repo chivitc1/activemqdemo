@@ -1,5 +1,7 @@
 # Project IDE files
 .idea/
+gradle/wrapper/gradle-wrapper.properties
+.gradle/
 */gradle/wrapper/gradle-wrapper.properties
 */build/
 */.gradle/
