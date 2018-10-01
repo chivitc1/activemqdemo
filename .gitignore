@@ -1,3 +1,9 @@
+# Project IDE files
+.idea/
+*/gradle/wrapper/gradle-wrapper.properties
+*/build/
+*/.gradle/
+
 # Compiled class file
 *.class
 
